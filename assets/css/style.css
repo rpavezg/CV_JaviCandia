@@ -1,0 +1,39 @@
+nav {
+    background-color: rgb(248, 227, 230);
+}
+section img {
+    width: 20%;
+    margin-left: 40%;
+}
+body {
+    background-image: url(../images/fondo\ pantalla.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-family: 'DM Sans', sans-serif;
+   
+}
+.centrotexto {
+    text-align: center;
+    padding-left: 10%;
+   padding-right: 10%;
+}
+.row p{
+    text-align: justify;
+}
+footer {
+    background-color: rgb(248, 227, 230) ;
+    text-align: center;
+}
+#cards .image-top {
+height: 250px;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+.titulo {
+    text-align: center;
+}
+.forks {
+    text-align: center;
+}
