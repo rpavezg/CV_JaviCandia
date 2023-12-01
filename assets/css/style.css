@@ -1,5 +1,5 @@
 nav {
-    background-color: rgb(248, 227, 230);
+    background-color: rgb(71, 42, 15);
 }
 section img {
     width: 20%;
@@ -22,8 +22,9 @@ body {
     text-align: justify;
 }
 footer {
-    background-color: rgb(248, 227, 230) ;
+    background-color: rgb(71, 42, 15) ;
     text-align: center;
+    color:silver
 }
 #cards .image-top {
 height: 250px;
@@ -33,6 +34,7 @@ background-position: center;
 }
 .titulo {
     text-align: center;
+    margin
 }
 .forks {
     text-align: center;
